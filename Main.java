@@ -1,5 +1,7 @@
 public class Main{
 
-private int a;
+private int value;
+private double doubleValue;
+
 
 }
